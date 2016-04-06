@@ -7,7 +7,7 @@ return new \Phalcon\Config(array(
         'host'       => 'localhost',
         'username'   => 'root',
         'password'   => '',
-        'dbname'     => 'contest',
+        'dbname'     => 'micro_gallery',
     ),
 
     'application' => array(
